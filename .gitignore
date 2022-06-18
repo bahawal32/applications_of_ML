@@ -1,0 +1,5 @@
+*.pt
+Object_detection/models
+Object_detection/utils
+*.pyc
+
